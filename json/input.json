@@ -1,0 +1,35 @@
+[
+    {
+      "Gender": "Male",
+      "Married": "Yes",
+      "Education": "Graduate",
+      "Self_Employed": "Yes",
+      "LoanAmount": 1000,
+      "Loan_Amount_Term": 200,
+      "Credit_History": 1.0,
+      "Property_Area": "Urban",
+      "TotalIncome": 1000
+    },
+    {
+      "Gender": "Female",
+      "Married": "No",
+      "Education": "Not Graduate",
+      "Self_Employed": "No",
+      "LoanAmount": 300,
+      "Loan_Amount_Term": 200,
+      "Credit_History": 0.0,
+      "Property_Area": "Rural",
+      "TotalIncome": 50000
+    },
+  {
+    "Gender": "Male",
+      "Married": "Yes",
+      "Education": "Graduate",
+      "Self_Employed": "Yes",
+      "LoanAmount": 100,
+      "Loan_Amount_Term": 2,
+      "Credit_History": 0.0,
+      "Property_Area": "Rural",
+      "TotalIncome": 500000
+  }
+]
